@@ -14,7 +14,7 @@ This project implements a basic Voice over Wi-Fi (VoWi-Fi) system using Java soc
 Clone the project
 
 ```bash
-  git clone https://github.com/MohitSaraff/VoWi-Fi_Audio_Streaming.git
+  git clone https://github.com/Swagatika16/VoWi-Fi_Audio_Streaming
 ```
 
 Go to the project directory
